@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Human-Computer Interaction & UX Engineering
+Turma 5ECS • Ano 2026
+Checkpoint 01: Heurísticas de Nielsen e Avaliação Ergonômica de Interfaces Industriais
+
+ENUNCIADO ORIGINAL:
+Realizar a inspeção heurística completa de um sistema de supervisão industrial (IHM/SCADA) aplicando as 10 Heurísticas de Usabilidade de Jakob Nielsen. Classificar os problemas encontrados pela escala de severidade (0 a 4) e propor redesign ergonômico para prevenção de acidentes e redução de carga cognitiva operacional.

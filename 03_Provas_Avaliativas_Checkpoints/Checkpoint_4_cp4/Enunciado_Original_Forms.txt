@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Human-Computer Interaction & UX Engineering
+Turma 5ECS • Ano 2026
+Checkpoint 04: Acessibilidade Digital e Conformidade com as Diretrizes WCAG 2.1
+
+ENUNCIADO ORIGINAL:
+Auditar e adequar uma interface web aos critérios de conformidade internacional WCAG 2.1 níveis AA e AAA. Avaliar a relação de contraste cromático de luminância relativa para textos normais e grandes, suporte a navegação por teclado sem armadilhas de foco (Focus Trap), atributos WAI-ARIA para leitores de tela e adaptabilidade a diferentes tipos de daltonismo.

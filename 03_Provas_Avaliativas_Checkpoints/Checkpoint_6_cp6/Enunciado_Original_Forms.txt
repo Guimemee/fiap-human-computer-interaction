@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Human-Computer Interaction & UX Engineering
+Turma 5ECS • Ano 2026
+Checkpoint 06: Engenharia de Métricas Quantitativas de UX e Testes de Usabilidade
+
+ENUNCIADO ORIGINAL:
+Conduzir teste formal de usabilidade comparativo com 15 usuários medindo as métricas objetivas de Time-on-Task (tempo de conclusão), Taxa de Sucesso da Tarefa, Taxa de Erro e questionário subjetivo padronizado System Usability Scale (SUS). Avaliar a significância estatística da melhoria através do teste t de Student pareado (p < 0,05).

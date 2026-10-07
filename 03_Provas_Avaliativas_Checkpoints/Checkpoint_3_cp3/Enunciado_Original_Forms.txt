@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Human-Computer Interaction & UX Engineering
+Turma 5ECS • Ano 2026
+Checkpoint 03: Design System e Prototipagem Interativa em Figma: Atomic Design
+
+ENUNCIADO ORIGINAL:
+Construir um Design System escalável baseado na metodologia do Atomic Design (Átomos, Moléculas, Organismos, Templates e Páginas). Estruturar tokens de design para cores semânticas, tipografia responsiva, espaçamentos modulares de 8 pt e componentes interativos com variantes de estado (Default, Hover, Active, Disabled).

@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Human-Computer Interaction & UX Engineering
+Turma 5ECS • Ano 2026
+Checkpoint 05: Interfaces Naturais de Usuário (NUI), Processamento de Voz e Gestos
+
+ENUNCIADO ORIGINAL:
+Projetar a interação multimodal homem-robô integrando reconhecimento de comandos de voz e gestos espaciais em tempo real para controle do braço robótico em ambientes industriais barulhentos. Avaliar o tempo de resposta ponta-a-ponta e a taxa de falso aceite (FAR) vs falso descarte (FRR).

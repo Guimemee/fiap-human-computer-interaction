@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Human-Computer Interaction & UX Engineering
+Turma 5ECS • Ano 2026
+Checkpoint 02: Design Centrado no Usuário (UCD), Mapeamento de Personas e Jornada
+
+ENUNCIADO ORIGINAL:
+Elaborar o mapeamento de duas proto-personas representativas (Operador de Linha e Engenheiro de Confiabilidade) e construir o Mapa da Jornada do Usuário (Customer Journey Map) ponta a ponta. Identificar os pontos de atrito (pain points), oportunidades de inovação e curvas emocionais antes e após a intervenção de design.
